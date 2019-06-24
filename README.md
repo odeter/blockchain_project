@@ -14,4 +14,4 @@ While the implementation does feature a working POW consensus algrotihm aswell a
 Most material used for this project was found at:
 - https://github.com/jashmenn/bitcoin-reading-list#content
 
-Wonderfull collection of reading material stuck together by @jashmenn.
+Wonderfull collection of reading material stuck together by [Nate Murray](https://github.com/jashmenn).
